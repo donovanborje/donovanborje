@@ -3,8 +3,6 @@ Hey there, I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, Por
 I started at GitHub in January of 2024 supporting what eventually became the AMER Digital Sales team within Corporate sales. I supported our West Enterprise team in AMER, partnering closely with some of our strongest AEs and several of GitHub’s largest enterprise accounts. More recently, I’ve transitioned to a new role piloting Inside Sales within the Sales Development workflow, where I focus on subsidiaries of Fortune 100 companies—showing them how their parent organizations ship better, more secure software with GitHub.
 
 ![IMG_6811](https://github.com/user-attachments/assets/0cd5e4bd-e37f-4d41-91f4-e2325abe428e)
-![EA026BB5-85F6-42B7-8EF9-ACDF1E264EFB_1_105_c](https://github.com/user-attachments/assets/295e18a2-752d-4c08-9a1c-bb2ab3b3168a)
-
 <!--
 **donovanborje/donovanborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
