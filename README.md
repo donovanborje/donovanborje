@@ -1,5 +1,3 @@
-## Hey there!
-
 I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries. 
 
 Quick bio: 
