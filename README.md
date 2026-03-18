@@ -1,9 +1,12 @@
-## Hi there 👋
+## Hey there!
 
+I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries. 
+
+Quick bio: 
+
+I started at GitHub in January of 2024 supporting what would eventually become the Digital Sales team within Corporate sales. I supported our West Enterprise team in AMER, partnering hand-in-hand with a few of the most stellar AE's and some of the largest Enterprise accounts we support here at GitHub. 
 <!--
 **donovanborje/donovanborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I started at GitHub in January of 2024 supporting what would eventually become the Digital Sales team within Corporate sales. 
 
 Here are some ideas to get you started:
 
