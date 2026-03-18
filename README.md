@@ -3,6 +3,8 @@
 <!--
 **donovanborje/donovanborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I started at GitHub in January of 2024 supporting what would eventually become the Digital Sales team within Corporate sales. 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
