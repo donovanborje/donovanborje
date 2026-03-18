@@ -1,8 +1,10 @@
-![EA026BB5-85F6-42B7-8EF9-ACDF1E264EFB_1_105_c](https://github.com/user-attachments/assets/6659f3aa-2c20-4f97-8d4b-e888947c7e9e)
+Hey there, I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, Porsche enthusiast, food-seeker, trumpet player, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries.  
 
-I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries.  
+I started at GitHub in January of 2024 supporting what eventually became the AMER Digital Sales team within Corporate sales. I then supported our West Enterprise team in AMER, partnering hand-in-hand with a few of the most stellar AE's and some of the largest Enterprise accounts we support here at GitHub. I've since moved on to piloting a new role within the Sales Development workflow; Inside Sales. I've honed in on targeting subsidiaries of Fortune 100 companies and showing them how their parent accounts are shipping better, more secure software with GitHub. 
 
-I started at GitHub in January of 2024 supporting what would eventually become the Digital Sales team within Corporate sales. I supported our West Enterprise team in AMER, partnering hand-in-hand with a few of the most stellar AE's and some of the largest Enterprise accounts we support here at GitHub. 
+![IMG_6811](https://github.com/user-attachments/assets/0cd5e4bd-e37f-4d41-91f4-e2325abe428e)
+![EA026BB5-85F6-42B7-8EF9-ACDF1E264EFB_1_105_c](https://github.com/user-attachments/assets/295e18a2-752d-4c08-9a1c-bb2ab3b3168a)
+
 <!--
 **donovanborje/donovanborje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
