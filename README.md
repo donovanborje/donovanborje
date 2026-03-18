@@ -1,6 +1,6 @@
-I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries. 
+![EA026BB5-85F6-42B7-8EF9-ACDF1E264EFB_1_105_c](https://github.com/user-attachments/assets/6659f3aa-2c20-4f97-8d4b-e888947c7e9e)
 
-Quick bio: 
+I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, car enthusiast, food-seeker, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries.  
 
 I started at GitHub in January of 2024 supporting what would eventually become the Digital Sales team within Corporate sales. I supported our West Enterprise team in AMER, partnering hand-in-hand with a few of the most stellar AE's and some of the largest Enterprise accounts we support here at GitHub. 
 <!--
