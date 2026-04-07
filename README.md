@@ -1,6 +1,8 @@
-Hey there, I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, Porsche enthusiast, food-seeker, trumpet player, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries.  
+👋🏽💃🏽 Hey there, I'm Donovan - born and raised in the Bay Area, I'm an avid hiker, Porsche enthusiast, food-seeker, trumpet player, and world-traveller. I'm currently focused on Enterprise Inside Sales, pursuing and closing business within Enterprise subsidiaries.  
 
-I started at GitHub in January of 2024 supporting what eventually became the AMER Digital Sales team within Corporate sales. I supported our West Enterprise team in AMER, partnering closely with some of our strongest AEs and several of GitHub’s largest enterprise accounts. More recently, I’ve transitioned to a new role piloting Inside Sales within the Sales Development workflow, where I focus on subsidiaries of Fortune 100 companies—showing them how their parent organizations ship better, more secure software with GitHub.
+💻 I started at GitHub in January of 2024 supporting what eventually became the AMER Digital Sales team within Corporate sales. I then transitioned to supporting our West Enterprise team in AMER, partnering closely with some of our strongest AEs and several of GitHub’s largest enterprise accounts. More recently, I piloted a new role within the Sales Development organization, Inside Sales - where I focused on subsidiaries of Fortune 100 companies—showing them how their parent organizations ship better, more secure software with GitHub. The pilot was then rolled out to other regions, including AMER East Enterprise, and EMEA. 
+
+🚀 Today, I support our AMER Digital Sales team. I sell any and everything GitHub to smaller engineering companies or startups. Thanks for reading, hopefully we'll chat soon!
 
 ![IMG_6811](https://github.com/user-attachments/assets/0cd5e4bd-e37f-4d41-91f4-e2325abe428e)
 <!--
